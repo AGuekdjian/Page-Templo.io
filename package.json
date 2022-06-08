@@ -1,0 +1,14 @@
+{
+  "name": "templopage",
+  "version": "1.0.0",
+  "description": "Pagina web para promocionar algo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthony Guekdjian",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
